@@ -1,1 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T07:46:28.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="LOOsmQL-6VTyqT-t-mvj" version="14.3.0" type="github"><diagram id="xHitaM4kCDe3aCwb0uP9" name="Page-1">7Vpbj6M2FP41ltpKMwIMDjxCktltO61Gmq3afVo5YBJmCE6NM0n219cGk3DN0EwuOxcpivCxfYy/c/UxAA7n608ML2Z/0IDEwNCCNYAjYBiOicS/JGxygmVrOWHKoiAn6TvCffSdKGIxbBkFJK0M5JTGPFpUiT5NEuLzCg0zRlfVYSGNq6su8JQ0CPc+jpvUv6OAz3KqbQx29M8kms6KlXXk5D1zXAxWO0lnOKCrEgmOARwySnn+NF8PSSyxK3DJ59109G5fjJGE95lg/El/T77Zv0Gkffn106O2MiLjqthHyjfFjkkgAFBNyviMTmmC4/GO6jG6TAIi2WqitRtzS+lCEHVBfCCcb5Q08ZJTQZrxeax6A5zOsvlF4w5zTliSUQxNUvPXku/SuV1FSumS+WTfHpXaYDYlfN+4nVSENhM6J5xtxERGYsyjp+qLYKVX0+24HfTiQaH/fySR833C8VKt5AnVSLmwKkEexjhNbykOCGsIbCcOCdxqFnFyv8AZJCs5uwJ9GMXxkMaUZXNhgIkd+oIuFqKPpNSDfJtMwq0kngjjZL1fFk3o1IStNSsnYKrmamdR+kDRZiVrsrRTgY0uofYCLbb5R83PGl9l49oqmqN1uXO0Ua3zmgvsay7wkuYCG+ZyJ5YNKZvXrQXFYhfeRD5N5dNPBSmkAhoZOQqdR/8upTMWYMIwtDVNK5PyyeM1J0ka0aR9FbGVnGs++uc3YKu6dXFjtT6MtQsbs6+xmpc0VrNhrO5iEUe+WLppSa/eYgx0aYsZNPD+K5XQloG+0o8LtUXswGyD2jYmEKHjQK1rVajhoCfU5qmgtvtAbbxCqKHxo0Ht9IEavgGozYtDXXi0EtYNXMV5diEfw5isXXnSzkJhoB5HvhRK5Ffh7Rv5mlCVoLD2uNLe8UytcEejLAksJIFqSo9qCOcBWc0qH7brjKwaI6PGKI/YDUaZtLbbfoEA9fcpQFOzqqZ0qABNzbyusTq3CJtHnHchQsOp4q7XvVxfERpOXYTb9OFcIrQ+RJi165nu4SLcJtvnEiF6pyKER4qE2yTlUpGwmaEfRYCiv7gQMPMqQHF74cg0U3VBdNCpdMpwEAlFKPUNCEZEK/WNIkb87AANR4kscLwCrdJraZFxqFbVGdVjRIdSCYniTWnYQg5I+7+vblfuWMRDzvG4Gts86ICxBRwNOHqznAnGJvBsYLttXTZwb4BrtHU5wBkAd9zWhYCTTWzpyl7DRS1dPYqqmub7CDWLqpKtNwBe63tacmuu1r47byR/7cXXhpVLs7jFExJXDRnH0VTakC9MRBwnoSfPcpGPY1d1zKMgyGuKJI2+40nGT1qi0h7B3PKANRKUWLL3sP84zU6dhfkmNCH7jorq8lKxBtsrw7Ld7nFunQdL7Ro5qOp9j2LGsMITWdX5NAxTchJfXuBSsowHRgSrOJqIf8avHzBrakplDMldTPr80Ic0JT1G+T0G+TPMBCZ9Fg1ZNmgsjHMEbKehxS8pZxA9sMigLfI4aADxkcoZVq2coQ+KHK5czzBaooxjdWviy64QTnQcXnVnAPX84LhJwI8e6M1a4HQOPYbX6yhnTv8LPanEYgeINMBpDUkikOnA7ghknpg1ag9kItpK5T9fLA5DrfWCMwu4N50rfsTiZ3xMp1e80q4thAYVbb46RTi2axZywnDcrFCVQxlZi1Vvfnlz4aztQrwtmp3uQrx5nzq8de/v79wvn98AwK33p+cFuOUE1vBgu9RAuZTKzX/ta7fDPwK4WAGodqttwQND+LOMjnRWt9uX6Xqt2vDiwqZruKW/bHztdU5TOSiQrehtJRfYKXAR+GXHVZrlra5UTbRYt2UFNrCFC3dlDuCOgeNmZQdHenTh2kXO45XSg20yIFMUB7h236yAy5BxsoRAfuOTb7RUgX3Z5wh6x21T2XPBFhut10B7eC55dt1+K5wrzO6Dazj+Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-16T07:47:22.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="vUUgPr_MJWj6TPMdn1iF" version="14.3.0" type="github">
+  <diagram id="xHitaM4kCDe3aCwb0uP9" name="Page-1">
+    <mxGraphModel dx="946" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2NoKn_8J360TIGk0w2i2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;" parent="1" source="2NoKn_8J360TIGk0w2i2-2" target="2NoKn_8J360TIGk0w2i2-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-2" value="Bootstrap ClassLoader" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="210" y="40" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="1" source="2NoKn_8J360TIGk0w2i2-3" target="2NoKn_8J360TIGk0w2i2-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-3" value="Platform ClassLoader&lt;br&gt;(&lt;font color=&quot;#ff8000&quot;&gt;Extension ClassLoader&lt;/font&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="1" source="2NoKn_8J360TIGk0w2i2-4" target="2NoKn_8J360TIGk0w2i2-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-4" value="Application ClassLoader" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="210" y="260" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-7" value="User ClassLoader-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="370" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-8" value="User ClassLoader-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="370" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-9" value="User ClassLoader-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="470" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-11" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="460" as="sourcePoint" />
+            <mxPoint x="404.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-13" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="140" as="sourcePoint" />
+            <mxPoint x="294.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-15" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="250" as="sourcePoint" />
+            <mxPoint x="294.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-16" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-18" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=40;endSize=9;width=36;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=north;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="sourcePoint" />
+            <mxPoint x="150" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-19" value="向&lt;br&gt;上&lt;br&gt;询&lt;br&gt;问&lt;br&gt;是&lt;br&gt;否&lt;br&gt;&lt;font color=&quot;#00cc66&quot;&gt;已&lt;br&gt;加&lt;br&gt;载&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="2NoKn_8J360TIGk0w2i2-18" vertex="1" connectable="0">
+          <mxGeometry x="0.696" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-20" value="jre/lib/rt.jar&lt;br&gt;jre/lib/resources.jar&lt;br&gt;jre/lib/jsse.jar&lt;br&gt;jre/lib/jce.jar&lt;br&gt;jre/lib/charsets.jar&lt;br&gt;jre/lib/jfr.jar等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="17.5" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-21" value="" style="shape=flexArrow;endArrow=classic;html=1;width=40;endSize=9;endWidth=40;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="90" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-22" value="逐&lt;br&gt;层&lt;br&gt;尝&lt;br&gt;试&lt;br&gt;是&lt;br&gt;否&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;可&lt;br&gt;加&lt;br&gt;载&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="2NoKn_8J360TIGk0w2i2-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.5667" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-23" value="jre/lib/ext/*.jar等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-24" value="CLASSPATH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="520" as="sourcePoint" />
+            <mxPoint x="210" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="520" />
+              <mxPoint x="90" y="360" />
+              <mxPoint x="500" y="360" />
+              <mxPoint x="500" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NoKn_8J360TIGk0w2i2-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;自定义类加载器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="460" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
